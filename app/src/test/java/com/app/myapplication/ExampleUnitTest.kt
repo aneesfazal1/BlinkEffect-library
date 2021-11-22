@@ -1,4 +1,4 @@
-package com.example.blinklibrary
+package com.app.myapplication
 
 import org.junit.Test
 

@@ -1,4 +1,4 @@
-package com.example.blinklibrary
+package com.app.blinklibrary
 
 import android.animation.ArgbEvaluator
 import android.animation.ObjectAnimator
